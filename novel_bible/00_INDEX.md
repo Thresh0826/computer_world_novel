@@ -18,7 +18,7 @@
 
 * [林川](02_characters/林川.md) · [诺亚](02_characters/诺亚.md) · [凯恩](02_characters/凯恩.md)
 * [巴洛](02_characters/巴洛.md) · [米娅](02_characters/米娅.md) · [西蒙](02_characters/西蒙.md)
-* [伊莱](02_characters/伊莱.md) · [阿尔文·莫里斯](02_characters/阿尔文_莫里斯.md) · [赫伯特](02_characters/赫伯特.md)
+* [伊莱](02_characters/伊莱.md) · [阿尔文·莫里斯](02_characters/阿尔文_莫里斯.md) · [莱恩](02_characters/莱恩.md) · [格雷](02_characters/格雷.md) · [赫伯特](02_characters/赫伯特.md)
 * [其他人物](02_characters/其他人物.md) · [人物关系](02_characters/人物关系.md)
 
 ## 能力
