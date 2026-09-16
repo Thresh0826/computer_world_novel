@@ -32,6 +32,7 @@
 * [巴洛](02_characters/巴洛.md)
 * [米娅](02_characters/米娅.md)
 * [西蒙](02_characters/西蒙.md)
+* [菲利克斯·阿什顿](02_characters/菲利克斯_阿什顿.md)
 * [塞维尔](02_characters/塞维尔.md)
 * [阿尔文与莫里斯](02_characters/阿尔文_莫里斯.md)
 * [莱恩](02_characters/莱恩.md)
@@ -44,6 +45,8 @@
 * [林川能力总表](03_abilities/林川能力总表.md)
 * [Linux体系](03_abilities/Linux体系.md)
 * [Python体系](03_abilities/Python体系.md)
+* [Java体系](03_abilities/Java体系.md)
+* [C++体系](03_abilities/C++体系.md)
 * [函数源码与重构](03_abilities/函数源码与重构.md)
 * [精神存储](03_abilities/精神存储.md)
 * [精神力体系](03_abilities/精神力体系.md)
@@ -52,6 +55,7 @@
 * [能力限制](03_abilities/能力限制与禁止事项.md)
 * [重要物品总表](04_items/重要物品总表.md)
 * [魔兽核心](04_items/魔兽核心.md)
+* [结晶核心](04_items/结晶核心.md)
 * [通讯石](04_items/通讯石.md)
 * [林川手机](04_items/林川手机.md)
 * [武器与装备](04_items/武器与装备.md)
@@ -65,6 +69,9 @@
 * [地点总表](06_locations/地点总表.md)
 * [贝恩镇](06_locations/贝恩镇.md)
 * [洛恩城](06_locations/洛恩城.md)
+* [洛恩南郊矿洞](06_locations/洛恩南郊矿洞.md)
+* [洛恩城南采石场](06_locations/洛恩城南采石场.md)
+* [澜河城](06_locations/澜河城.md)
 
 ## 剧情与连续性
 
