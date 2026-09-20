@@ -38,6 +38,7 @@
 * [莱恩](02_characters/莱恩.md)
 * [格雷](02_characters/格雷.md)
 * [黑环长刺势力三名袭击者](02_characters/黑环长刺势力三名袭击者.md)
+* [女角色A（暂名）](02_characters/女角色A_暂名.md)
 * [人物关系](02_characters/人物关系.md)
 
 ## 能力与物品
